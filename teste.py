@@ -1,6 +1,6 @@
-input("Digite a Palavra:")
 
-x = "hello"
+
+x = "Olá"
 if x == "hello":
     print(x)
 else:
